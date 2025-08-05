@@ -90,8 +90,8 @@ Here are the primary tools and technologies I work with:
   </a> -->
 
   # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=waliullah9099&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waliullah9099&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gowaliullah&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowaliullah&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
