@@ -29,20 +29,20 @@ Here are the primary tools and technologies I work with:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+        <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
       </a>
       <br>Golang
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="95" height="95" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="95" height="95" />
       <br>Typescript
     </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="85" height="85" alt="Rest API" />
       <br>Rest API
     </td>
     <td align="center" width="96">
