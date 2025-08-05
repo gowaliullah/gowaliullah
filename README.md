@@ -29,7 +29,7 @@ Here are the primary tools and technologies I work with:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
       </a>
       <br>Golang
     </td>
