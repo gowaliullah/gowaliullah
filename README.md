@@ -9,7 +9,7 @@
   
   <p>
     <a href="https://www.linkedin.com/in/engwaliullah/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://github.com/engWaliullah"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/gowaliullah"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="mailto:waliullah9099@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
 
@@ -74,14 +74,24 @@ Here are the primary tools and technologies I work with:
 
 ### 📊 My GitHub Analytics
 
-<p align="">
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="">
     <img alt="Waliullah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=engWaliullah&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
+</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=waliullah9099&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waliullah9099&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
   </a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Waliullah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engWaliullah&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+    <img alt="Waliullah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowaliullah&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
   </a>
-</p>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=engWaliullah&theme=tokyonight&hide_border=true" />
