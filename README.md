@@ -61,8 +61,6 @@ Here are the primary tools and technologies I work with:
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="65" alt="Postman" />
       <br>Postman
     </td>
-  </tr>
-  <tr>
         <td align="center" width="96">
         <img src="https://github.com/roniahamed/roniahamed/blob/main/img/vs-code.gif" width="45" height="45" alt="jquery" />
       <br>Vs-Code
