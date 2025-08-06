@@ -82,16 +82,14 @@ Here are the primary tools and technologies I work with:
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=waliullah9099&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waliullah9099&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+-->
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Waliullah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowaliullah&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
   </a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gowaliullah&theme=vue-dark&hide_border=true)<br/>
-  </a> -->
-<p align="">
-    <img alt="Waliullah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=engWaliullah&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
-</p>
+  </a> 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowaliullah&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
