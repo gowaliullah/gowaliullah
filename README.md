@@ -25,7 +25,7 @@
  -->
 
 
-### 🤔 About Me <img src="https://komarev.com/ghpvc/?username=gowa&gowaliullah=Profile%20views&color=0e75b6&style=flat" alt="gowaliullah" />
+### 🤔 About Me
 As an aspiring backend developer with a solid foundation in web technologies, I am now focused on building scalable, efficient systems using Go (Golang). I am seeking a backend-focused internship where I can deepen my understanding of server-side development, microservices architecture, and API design using Go, while contributing to real-world projects in a collaborative engineering environment.
 
 ---
