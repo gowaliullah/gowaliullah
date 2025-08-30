@@ -102,6 +102,8 @@ Here are the primary tools and technologies I work with:
   </a> -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gowaliullah&theme=vue-dark&hide_border=true) <br/>
+        <!--START_SECTION:waka-->
+        <!--END_SECTION:waka-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowaliullah&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
