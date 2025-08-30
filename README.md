@@ -101,53 +101,9 @@ Here are the primary tools and technologies I work with:
   </a>
   </a> -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gowaliullah&theme=vue-dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gowaliullah&theme=vue-dark&hide_border=true) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowaliullah&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-name: Waka Readme
-
-on:
-  # for manual workflow trigger
-  workflow_dispatch:
-  schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
-
-jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-        # this action name
-      - uses: gowaliullah/waka-readme@master # do NOT replace with anything else
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.waka_50c1ef5a-54a0-42a0-b09a-1df02b8b2009 }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: gowaliullah/gowaliullah # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: YOUR_NAME # optional
-          AUTHOR_EMAIL: YOUR@EMAIL.com # optional
-          # you can populate email-id with secrets instead
 
 
 ### ✍️ Random Dev Quote
