@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" width="45" height="45" />
   </h1>
   
-  <h3>Jr. Software Engineer specialising in Golang, Typescript, and REST APIs</h3>
+  <h3>Jr. Software Engineer specialising in Golang, Typescript, Next.js, PostgreSQL, REST APIs and Docker</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/engwaliullah/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
