@@ -44,6 +44,30 @@ Here are the primary tools and technologies I work with:
       <br>Typescript
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Go" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Go" />
+      </a>
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="Go" />
+      </a>
+      <br>Postgresql
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="Go" />
+      </a>
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
       <br>React.js
     </td>
@@ -67,12 +91,6 @@ Here are the primary tools and technologies I work with:
    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="85" height="65" alt="Rest API" />
       <br>Rest API
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="Go" />
-      </a>
-      <br>Postgresql
     </td>
       <tr>
     <td align="center" width="96">
