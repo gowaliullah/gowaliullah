@@ -35,9 +35,17 @@ As an aspiring backend developer with a solid foundation in web technologies, I 
 Here are the primary tools and technologies I work with:
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="95" height="65" />
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="Go" />
+      </a>
       <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="Go" />
+      </a>
+      <br>Typescript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="95" height="65" />
@@ -67,15 +75,17 @@ Here are the primary tools and technologies I work with:
       </a>
       <br>Prisma
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="Go" />
+      </a>
       <br>React.js
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=next.js" width="45" height="45" alt="Go" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Go" />
       </a>
-      <br>Next.js
+      <br>Nextjs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
