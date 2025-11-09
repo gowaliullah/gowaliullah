@@ -48,10 +48,6 @@ Here are the primary tools and technologies I work with:
       <br>Typescript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="95" height="65" />
-      <br>Typescript
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Go" />
       </a>
@@ -81,6 +77,8 @@ Here are the primary tools and technologies I work with:
       </a>
       <br>React.js
     </td>
+    </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Go" />
@@ -93,31 +91,35 @@ Here are the primary tools and technologies I work with:
       </a>
       <br>Golang
     </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Go" />
+      </a>
       <br>Docker
     </td>
-</tr>
-   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="85" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-      <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Go" />
+      </a>
       <br>Git
     </td>
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="Go" />
+      </a>
       <br>Github
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="65" alt="Postman" />
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Go" />
+      </a>
       <br>Postman
     </td>
-        <td align="center" width="96">
-        <img src="https://github.com/roniahamed/roniahamed/blob/main/img/vs-code.gif" width="45" height="45" alt="jquery" />
-      <br>Vs-Code
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Go" />
+      </a>
+      <br>VS Code
     </td>
   </tr>
 </table>
